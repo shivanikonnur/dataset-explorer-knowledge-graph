@@ -1,0 +1,11 @@
+dataset_id,name,domain,task,file_format,features,description,url
+D001,Iris,Life Sciences,Classification,CSV,sepal_length;sepal_width;petal_length;petal_width,Classify iris flower species,https://archive.ics.uci.edu/dataset/53/iris
+D002,Wine Quality,Food Science,Classification,CSV,fixed_acidity;volatile_acidity;citric_acid;residual_sugar,Study wine quality categories,https://archive.ics.uci.edu/dataset/186/wine+quality
+D003,House Prices,Real Estate,Regression,CSV,area;bedrooms;location;price,Estimate residential property prices,https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+D004,Heart Disease,Healthcare,Classification,CSV,age;cholesterol;blood_pressure;max_heart_rate,Explore heart disease classification,https://archive.ics.uci.edu/dataset/45/heart+disease
+D005,Customer Segmentation,Retail,Clustering,CSV,annual_income;spending_score;age,Group customers by behavior,https://www.kaggle.com/datasets
+D006,Sentiment Reviews,Text Analytics,Text Classification,CSV,review_text;sentiment;rating,Classify text reviews by sentiment,https://www.kaggle.com/datasets
+D007,Energy Consumption,Energy,Regression,CSV,temperature;humidity;hour;consumption,Forecast energy consumption,https://www.kaggle.com/datasets
+D008,Image Categories,Computer Vision,Classification,Folder/JPG,image_pixels;label,Classify images into categories,https://www.tensorflow.org/datasets
+D009,Network Intrusion,Cybersecurity,Anomaly Detection,CSV,protocol;duration;bytes;connection_state,Identify unusual network activity,https://www.kaggle.com/datasets
+D010,Movie Ratings,Entertainment,Recommendation,CSV,user_id;movie_id;rating;timestamp,Recommend movies based on user preferences,https://grouplens.org/datasets/movielens/
